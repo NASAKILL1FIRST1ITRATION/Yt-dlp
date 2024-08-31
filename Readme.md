@@ -7,7 +7,7 @@ If it gives you the error
 >python3: can't open file '/home/josephcolon1980/pip.pyz': [Errno 2] No such file or directory
 Then change the pip.pyz to pip
 ### Origanal Replit Link
-[Link text](https://replit.com/@josephcolon1980/Yotube-To-mp3?v=1)
+[REPLIT LINK](https://replit.com/@josephcolon1980/Yotube-To-mp3?v=1)
 #### reqiremnts
 This needs yt-dlp wich can be installed with
 > python3 -m pip install -U "yt-dlp[default]"
